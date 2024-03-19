@@ -55,7 +55,7 @@ const projects: IProject[] = [
         ],
         link: "https://ha55a.exchange",
         stack: ["laravel"],
-        description: "Spearheaded the development of a secure and efficient Iraqi money\n      exchange website using Laravel PHP. This project enabled users to conveniently exchange currency while\n      ensuring the utmost security.",
+        description: "Spearheaded the development of a secure and efficient Iraqi money\n exchange website using Laravel PHP. This project enabled users to conveniently exchange currency while\n      ensuring the utmost security.",
     },
     {
         title: "StayOn",
@@ -89,21 +89,21 @@ const projects: IProject[] = [
         title: "Vitastir",
         link: "",
         stack: ["laravel","react","next","nest",'socketio'],
-        description: "",
+        description: "a comprehensive health e-commerce platform facilitating the seamless purchase of medical products. Key features include a user-friendly interface, secure transactions, prescription management, personalized recommendations, and a health information hub.",
         images: []
     },
     {
         title: "Yamama Cement",
         link: "",
         stack: ["netcore"],
-        description: "",
+        description: "Dashboard for Yamama Cement company in ksa",
         images: []
     },
     {
         title: "Baraem",
         link: "",
         stack: ["laravel","vue"],
-        description: "",
+        description: "non profit organization",
         images: []
     },
     // {blue
